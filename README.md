@@ -8,3 +8,10 @@ Just me.
 
 How to Run the Program:
 Open the code and click run.
+
+
+
+![1](https://github.com/Tyler0219/Finite-State-Machine-Test/assets/101218126/f4e05d6d-e8c7-4cd1-afb5-faef55947e63)
+![2](https://github.com/Tyler0219/Finite-State-Machine-Test/assets/101218126/22899b98-0b8a-4e2f-b3bb-23bd27b812ca)
+![3](https://github.com/Tyler0219/Finite-State-Machine-Test/assets/101218126/c4226e46-4926-46fb-8600-b3f9cf11e43a)
+![4](https://github.com/Tyler0219/Finite-State-Machine-Test/assets/101218126/2fe9e8ca-45e4-4773-ba11-734b6b44f47d)
